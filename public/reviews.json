@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fsemi-formal&psig=AOvVaw1FHkiO5a5kwztBR4E1iK3Z&ust=1649084037465000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCbz9uS-PYCFQAAAAAdAAAAABAD",
+      "description": "Bought the DJI Mavic Air 2, two weeks ago before I knew an update was coming so soon buttt.... I just ordered the Air 2S! The Air 2 has been fantastic but I did run into some range issues or losing connectivity around buildings and residential areas. Hoping the updated unit with 4 antennas vs 2 will fix that issue. Also looking forward to the updated hardware and 1 inch sensor! Will post back with comparison and if it was worth the extra buy.",
+      "ratings": 5
+    },
+    {
+      "id": 2,
+      "name": "Chris Smith",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fformal%2F&psig=AOvVaw1FHkiO5a5kwztBR4E1iK3Z&ust=1649084037465000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCbz9uS-PYCFQAAAAAdAAAAABAI",
+      "description": " I’m a newbie to the world of drones. This is my first drone and so far I’m very happy with it. I have nothing to compare it with other than those toy drones which I think is not fair to make some comparison. First use, like any other electronics, is always the hardest. But after that, everything else is a breeze. Buy the combo package because you’ll definitely need more than 1 battery. The bag makes it so convenient to bring this with you. Also buy a SD card because the internal 8gb memory only lasts few minutes. I believe only up to 256gb SD cards are compatible with the drone.",
+      "ratings": 5
+    },
+    {
+      "id": 3,
+      "name": "Woke steves",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fgoingintrends.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fformal-dresses-for-men-1.jpg&imgrefurl=https%3A%2F%2Fgoingintrends.com%2Fformal-dress-for-men-guide%2F&tbnid=Qli7dfPmN088hM&vet=12ahUKEwjfx6rzkvj2AhXTi9gFHZ2QBpoQMyg9egQIARBp..i&docid=uKJN0fyS8N74PM&w=680&h=1020&q=formal%20people%20image&ved=2ahUKEwjfx6rzkvj2AhXTi9gFHZ2QBpoQMyg9egQIARBp",
+      "description": "This drone is awesome! the controls are so good. Great video / image quality. The best thing of all must be the return to home button. Just press and hold for 3 sec and it flys back. The only slight confusion is not finding the DJI Fly app from the Play Store. Need to scan QR code and install the app from the link. Another thing about drone use in general is that there are restricted places where you can't fly. You need to go to DJI Fly Safe Geo Zone Map to check if you can fly in your area. Pretty much can't fly near airports and all of D.C.",
+      "ratings": 5
+    },
+    {
+      "id": 4,
+      "name": "Ben Cutting",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.thetrendspotter.net%2Fwp-content%2Fuploads%2F2015%2F09%2FThe-Black-Tie-Dress-Code-for-Men.jpg&imgrefurl=https%3A%2F%2Fwww.thetrendspotter.net%2Fformal-dress-for-men%2F&tbnid=j_ch1VFMxf87kM&vet=12ahUKEwjfx6rzkvj2AhXTi9gFHZ2QBpoQMyhDegQIARB2..i&docid=7s5tlod5dN5x_M&w=800&h=450&q=formal%20people%20image&ved=2ahUKEwjfx6rzkvj2AhXTi9gFHZ2QBpoQMyhDegQIARB2",
+      "description": "First of all it has 03 connection, active track4.0. I own several DJI Drones and this one ranks up there. The pictures and video this Drone can shoot are awesome and work great in post editing. I would definitely recommend this Drone to anyone looking to getting into surveys, photography, or real-estate.",
+      "ratings": 4
+    },
+    {
+      "id": 5,
+      "name": "Stipen jes",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.beyoung.in%2Fblog%2Fwp-content%2Fuploads%2F2018%2F09%2Fheader-7.jpg&imgrefurl=https%3A%2F%2Fwww.beyoung.in%2Fblog%2Frevamp-the-semi-formal-collection%2F&tbnid=kmy1ySRs90z1hM&vet=12ahUKEwjfx6rzkvj2AhXTi9gFHZ2QBpoQMyhWegUIARCjAQ..i&docid=i4hqpxSex_4zTM&w=2200&h=1100&q=formal%20people%20image&ved=2ahUKEwjfx6rzkvj2AhXTi9gFHZ2QBpoQMyhWegUIARCjAQ",
+      "description": " I’m a newbie to the world of drones. This is my first drone and so far I’m very happy with it. I have nothing to compare it with other than those toy drones which I think is not fair to make some comparison. First use, like any other electronics, is always the hardest. But after that, everything else is a breeze. Buy the combo package because you’ll definitely need more than 1 battery. The bag makes it so convenient to bring this with you. Also buy a SD card because the internal 8gb memory only lasts few minutes. I believe only up to 256gb SD cards are compatible with the drone.",
+      "ratings": 4.5
+    },
+    {
+      "id": 6,
+      "name": "Jenifer Lopez",
+      "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fimage-photo%2Fyoung-asian-businesswoman-on-white-260nw-590163413.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fformal%2Bgirl&tbnid=UI-ek-yKMdQSQM&vet=12ahUKEwigz7SnmPj2AhX7yaACHTuYC3IQMygGegUIARDqAQ..i&docid=dK750w2HsAgx8M&w=390&h=280&q=formal%20lady%20image&ved=2ahUKEwigz7SnmPj2AhX7yaACHTuYC3IQMygGegUIARDqAQ",
+      "description": " Love this little drone but I ended up returning for one reason; the standard pack does NOT come with neutral density filters which are a MUST for anyone shooting professionally with this model. For those of you who aren't aware, this model has a fixed aperture which means you can not close up the iris on a bright day, which is why they developed ND filters specifically for this model. Unfortunately, they don't come in this particular pack. Either purchase ND's separately or do what I did and spend the extra money on the fly more combo, which comes with 4 ND's and 2 additional batteries.",
+      "ratings": 4
+    }
+  ]
