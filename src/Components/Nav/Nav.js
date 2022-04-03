@@ -14,10 +14,10 @@ const Nav = () => {
     </Link>
     <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center md:text-xl">
       <CustomLink to="/" className="mr-5 hover:text-gray-900">Home</CustomLink>
-      <CustomLink to="/" className="mr-5 hover:text-gray-900">Review</CustomLink>
-      <CustomLink to="/" className="mr-5 hover:text-gray-900">Dashboard</CustomLink>
-      <CustomLink to="/" className="mr-5 hover:text-gray-900">Blogs</CustomLink>
-      <CustomLink to="/" className="mr-5 hover:text-gray-900">About</CustomLink>
+      <CustomLink to="/reviews" className="mr-5 hover:text-gray-900">Reviews</CustomLink>
+      <CustomLink to="/dashboard" className="mr-5 hover:text-gray-900">Dashboard</CustomLink>
+      <CustomLink to="/blogs" className="mr-5 hover:text-gray-900">Blogs</CustomLink>
+      <CustomLink to="/contact" className="mr-5 hover:text-gray-900">Contact</CustomLink>
     </nav>
   </div>
 </header>
