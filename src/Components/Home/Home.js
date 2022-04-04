@@ -27,10 +27,10 @@ const Home = () => {
       <hr />
       <section className='text-gray-600 body-font'>
           <div className='container px-5 py-24 mx-auto flex flex-col items-center'>
-              <h1 className='text-2xl text-center font-bold mb-12'>Customer review : ({products.length})</h1>
+              <h1 className='text-2xl text-center font-bold mb-12'>Customer review : ({products.slice(0,3).length})</h1>
               <div className='flex flex-wrap -m-4'>
                   {
-                      products.map(product=><Product key={product.id} product = {product} />)
+                      products.slice(0,3).map(product=><Product key={product.id} product = {product} />)
                   }
               </div>  
               <button onClick={()=>navigate('/reviews')} className="inline-flex text-white bg-pink-500 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 rounded text-lg mt-10">View All Reviews</button>   
