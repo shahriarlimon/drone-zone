@@ -9,7 +9,7 @@ const Product = ({product}) => {
             <p className='leading-relaxed'> {description.slice(0,300)+'...'}</p>
             <span className="inline-block h-1 w-10 rounded bg-pink-500 mt-6 mb-4"></span>
             <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">{name}</h2>
-            <p className="text-gray-500">Ratings: {ratings} starts</p>
+            <p className="text-gray-500">Ratings: {ratings} stars</p>
 
            </div>
             

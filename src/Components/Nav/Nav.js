@@ -6,7 +6,7 @@ import CustomLink from '../CustomLink/CustomLink';
 const Nav = () => {
     return (
         <div>
-            <header className="text-gray-600 body-font bg-white shadow-lg">
+            <header className="text-gray-600 body-font bg-white shadow-md">
   <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <Link to ="/" className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
       <GiDeliveryDrone className='w-10 h-10 text-white p-2 bg-pink-500 rounded-full'/>
