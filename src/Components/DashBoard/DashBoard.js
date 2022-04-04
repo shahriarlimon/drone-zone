@@ -25,8 +25,8 @@ const DashBoard = () => {
         <div className='flex flex-col justify-center items-center mt-32'>
             <h1 className='text-xl font-serif mb-3 text-center'>Current revenue statistics across sell and investment:</h1>
         <BarChart width={400} height={320} data={Data}>
-            <XAxis dataKey="sell" stroke="#8884d8" />
-            <YAxis dataKey="investment" />
+            <XAxis dataKey="month" stroke="#8884d8" />
+            <YAxis dataKey="sell" />
             <Tooltip wrapperStyle={{ width: 100, backgroundColor: '#ccc' }} />
             <Legend width={100} wrapperStyle={{ top: 40, right: 20, backgroundColor: '#f5f5f5', border: '1px solid #d5d5d5', borderRadius: 3, lineHeight: '40px' }} />
             <CartesianGrid stroke="#ccc" strokeDasharray="5 5" />
