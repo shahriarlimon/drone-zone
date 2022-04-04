@@ -2,7 +2,7 @@
 ### Drone Zone
 ## Live Website Link
 
-  [Drone Zone](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+  [Drone Zone](https://animated-drone-zone.netlify.app/)
  
  ## Project Details
  - It's a Drone Review Website 
